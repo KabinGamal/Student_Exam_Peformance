@@ -1,4 +1,7 @@
-# Students Exams Analysis 
----
+# Student Exam Score Prediction using Machine Learning
 
-It's an end-to-end **Student Exam Prediction(ML)** Project using Logistic Regression. To predict whether the student gonna pass the exam or not. On the basic of the Study hours.and many other things like:
+##  Project Overview
+
+This project is my **first Machine Learning project**, built using **Linear Regression** from Scikit-Learn.
+
+The goal of this project is to predict a student's exam score based on various academic, personal, and environmental factors. By analyzing these factors, the model estimates student performance and helps identify the key features that influence exam results.
