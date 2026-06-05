@@ -35,3 +35,14 @@ The model uses the following features:
 -  Peer Influence
 -  Sleep Hours
 -  Study Habits
+
+---
+##  Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Jupyter Notebook
