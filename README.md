@@ -35,7 +35,6 @@ The model uses the following features:
 -  Peer Influence
 -  Sleep Hours
 -  Study Habits
-
 ---
 ##  Technologies Used
 
@@ -46,7 +45,6 @@ The model uses the following features:
 - Seaborn
 - Scikit-Learn
 - Jupyter Notebook
-
 ---
 
 ##  Project Workflow
@@ -114,5 +112,4 @@ Through this project, I gained hands-on experience with:
 The ultimate goal of this project is to build a machine learning model that can accurately predict student exam performance while strengthening my understanding of real-world Data Science and Machine Learning workflows.
 
 Since this is my **first Machine Learning project**, the focus is not only on achieving good performance but also on learning the fundamental concepts behind building ML models.
-
 ---
